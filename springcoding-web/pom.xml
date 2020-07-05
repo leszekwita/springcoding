@@ -26,7 +26,7 @@
 		<org.modelmapper.version>0.5.4</org.modelmapper.version>
 		<log4j.version>1.2.17</log4j.version>
 		<org.hibernate.version>4.1.9.Final</org.hibernate.version>
-		<org.hibernate.version.431>4.3.1.Final</org.hibernate.version.431>
+		<org.hibernate.version.431>5.3.5.Final</org.hibernate.version.431>
 		<org.hsqldb>2.2.9</org.hsqldb>
 		<org.postgresql>9.1-901.jdbc3</org.postgresql>
 		<log4j.version>1.2.17</log4j.version>
